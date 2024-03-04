@@ -218,7 +218,7 @@ def error(update, context):
 def main():
     """Start the bot."""
 
-    TOKEN = "6450906834:AAETx9Vo2yfL_Wh-LbzsSiH-mf6hTByWWHs"
+    TOKEN = "5876590324:AAHfTjFQz4Pfrz5uzD1jjIZqDEh8EkHtFf4"
 
     #Chegg Kenya
     #1948227637:AAEUS_i_uzbRMfGAPe2U7Jt559wVbiI46d0
